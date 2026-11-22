@@ -135,5 +135,3 @@ This utility provides metric-based route preference and connectivity monitoring.
 Version
 Current version: 1.1.0
 
-License
-No license has been selected yet. Until one is added, default copyright rules apply and others have no explicit permission to use, modify, or redistribute the code. Consider adding an MIT License if you want a permissive open-source release.
